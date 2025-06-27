@@ -1,0 +1,13 @@
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\bin\Debug\net9.0\files\chatbot.txt
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\bin\Debug\net9.0\ChatBotLibrary.deps.json
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\bin\Debug\net9.0\ChatBotLibrary.dll
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\bin\Debug\net9.0\ChatBotLibrary.pdb
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.dll
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\refint\ChatBotLibrary.dll
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.pdb
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ref\ChatBotLibrary.dll
+C:\Users\lab_services_student\Desktop\ST10029895_PROG6211_Part2\PROG6221POE\ChatBotLibrary\obj\Debug\net9.0\ChatBotLibrary.csproj.AssemblyReference.cache

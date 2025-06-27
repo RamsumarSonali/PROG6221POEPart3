@@ -1,0 +1,8 @@
+how are you|how,are,you|I am great and operating perfectly. 😄~Doing well, thank you! Hope you're good too!~Feeling fantastic and ready to chat!
+purpose|purpose,goal,intent|I’m here to help you learn about cybersecurity. 🔐~My goal is to keep you informed and safe online.~Educating users about cyber threats is my mission!
+password safety|password,security,login|You should use at least 10 characters with a mix of capital and lowercase letters, numbers and symbols. 🔐~Avoid using your name or birthday in your passwords.~Always enable two-factor authentication when possible.
+phishing|phishing,scam,fraud|Phishing is when scammers impersonate others to steal data.~Never click unknown links in emails.~Always verify the sender before you reply. 📧
+safe browsing|safe,browsing,web,internet|Keep your browser and antivirus apps updated.~Avoid suspicious websites and pop-ups.~Use a VPN on public Wi-Fi for safety. 🌐
+invalid|invalid,input,error|I do not really understand. Can you please rephrase? 😕
+
+
